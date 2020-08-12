@@ -9,8 +9,10 @@ To run the code, navigate to Submission_Code folder and type below command in th
 ```bash
 python image_analytics.py --image_path
 ```  
-This will generate images in the samples folder.  
-i.e.: python image_analytics.py ../images/Vanditg.jpg or python image_analytics.py ../images/test.jpg  
+This will generate images in the samples folder.   
+```bash  
+i.e.: python image_analytics.py ../images/Vanditg.jpg or python image_analytics.py ../images/test.jpg   
+```
 
 ## Completed Tasks  
 ```bash
@@ -19,4 +21,16 @@ Facial Expression Classification
 Face Quality Check  
 Blurred the Background except Face  
 ```  
+
+## Dependencies  
+-- opencv-python==3.4.2.16  
+-- numpy==1.16.4  
+-- tensorflow-gpu==1.14.0  
+-- Keras==2.2.4  
+-- matplotlib==3.1.1  
+-- Pillow==6.1.0  
+
+## Tested on:  
+-- Windows 10
+-- Linux 16.04  
 
