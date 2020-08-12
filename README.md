@@ -14,8 +14,9 @@ i.e.: python image_analytics.py ../images/Vanditg.jpg or python image_analytics.
 
 ## Completed Tasks  
 ```bash
-Bounding-Box Generation and Facial Expression Classification
-Face Quality Check
-Blurred the Background except Face
+Bounding-Box Generation  
+Facial Expression Classification  
+Face Quality Check  
+Blurred the Background except Face  
 ```  
 
