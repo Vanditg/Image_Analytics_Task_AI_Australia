@@ -10,6 +10,7 @@ To run the code, navigate to Submission_Code folder and type below command in th
 python image_analytics.py --image_path
 ```  
 This will generate images in the samples folder.  
+i.e.: python image_analytics.py ../images/Vanditg.jpg or python image_analytics.py ../images/test.jpg  
 
 ## Completed Tasks  
 ```bash
